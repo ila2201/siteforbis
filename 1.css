@@ -1,0 +1,79 @@
+body {
+    background: #9424f4;
+}
+
+.menu {
+    margin-right: 130px;
+}
+
+.click {
+    font-size: 40px;
+    line-height: 70px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.click:last-child {
+    margin-right: 0;
+}
+
+.verh {
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.q1 {
+    height: 200px;
+    width: 371px;
+    background: #FD6A6A;
+    margin: 0 auto;
+}
+
+.q2 {
+    height: 200px;
+    width: 766px;
+    background: #50EEB5;
+    margin: 0 auto;
+}
+
+.q3 {
+    height: 200px;
+    width: 787px;
+    background: #A04AE2;
+    margin: 0 auto;
+}
+
+h1 {
+    margin-top: 30px;
+    color: blue;
+    font-size: 100px;
+}
+
+h2 {
+    color: #000000;
+    font-size: 50px;
+    margin: 0 auto;
+}
+
+h3 {
+    color: #000000;
+    font-size: 60px;
+}
+
+.e {
+    color: #6F6F09;
+    font-size: 50px;
+    border: 1px solid blue; /* Исправлено */
+}
+
+.u {
+    font-size: 150px;
+    margin: 0 auto;
+}
+
+.r {
+    color: #F48646;
+}
